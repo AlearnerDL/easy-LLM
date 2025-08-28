@@ -1,2 +1,2 @@
-# easy-RAG
-一个简单的RAG学习项目
+# easy-LLM
+一个简单的llm学习项目
